@@ -8,6 +8,8 @@ Final Project for Brandeis University's Mobile App Development Class:
 
 Compatible Versions Minimum SDK: Marshmallow (Android 6.0) and up
 
+USAGE: Download the .zip and put the LetsKetchup directory in your AndroidStudioProjects directory. Run the app on an Android emulator. 
+(FOR TEAM): When you finish adding features zip the whole project again and reupload it here, as a different version name.
 
 __TODO - Possible Design Structures:__
 
