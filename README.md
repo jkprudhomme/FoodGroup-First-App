@@ -13,8 +13,8 @@ USAGE: Download the .zip and put the LetsKetchup directory in your AndroidStudio
 
 __TODO - Possible Design Structures:__
 
-1. Whenever app launched, loading screen with FoodGroup / LetsKetchup logo
-2. Login activity
+1. Whenever app launched, loading screen with FoodGroup / LetsKetchup logo (DONE! -Jonas)
+2. Login activity (TODO -Jonas)
 3. Some activity using Google Maps to view location and time it takes to go to restaurant / dining area
 4. Navigation drawer activity that allows user to go around different activities, this should be the main activity
 5. (Joke) Ads of restaurants that pop up
